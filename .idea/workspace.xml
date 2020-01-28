@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57b4d4a1-75a2-445b-a8c6-24ccb602d0fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X2dXd2gQCP9hCdjuCyNdeCO4rx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../petrol_station/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="prime" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ru.spbstu.telematics.java.prime.prime" />
+      <module name="prime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57b4d4a1-75a2-445b-a8c6-24ccb602d0fe" name="Default Changelist" comment="" />
+      <created>1580248163343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580248163343</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580249536553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580249536553" />
+    <state x="775" y="529" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580248747536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="529" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580248747536" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1580249392958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580249392958" />
+    <state x="405" y="135" key="SettingsEditor" timestamp="1580249615884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="405" y="135" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580249615884" />
+  </component>
+</project>
